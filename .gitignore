@@ -1,0 +1,8 @@
+data
+data/*
+data/pics/*
+setup_done.info
+venv
+venv/*
+.vscode
+.vscode/*
