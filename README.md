@@ -16,3 +16,6 @@
 3. Navigate to the PromptExtractor directory
 5. Run the command below
    * <code>Unblock-File -Path .\Start-Refresh.ps1; Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process; .\Start-Refresh.ps1</code>
+
+When execution is finished, a HTML page containing the result of the script will be created in PromptExtractor\data\.
+A plain text version containing only the prompts is also available in the same folder.
