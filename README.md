@@ -1,8 +1,8 @@
 # OS Support
 * Written and tested on Windows 11
-** Should also work on Win 10 out of the box
-** Could easily be adapted for UNIX-based OS
-*** Maybe a future update !? 🎧
+  * Should also work on Win 10 out of the box
+  * Could easily be adapted for UNIX-based OS
+    * Maybe a future update !? 🎧
 
 # Requirements
 * Python 3.11 installed
